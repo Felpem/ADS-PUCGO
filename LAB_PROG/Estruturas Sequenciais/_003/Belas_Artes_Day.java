@@ -1,3 +1,4 @@
+package _003;
 import java.util.Scanner;
 public class Belas_Artes_Day {
     public static void main(String[] args) {

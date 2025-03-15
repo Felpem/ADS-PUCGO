@@ -1,3 +1,4 @@
+package _0002;
 import java.util.Scanner;
 public class IMC_Honesto {
     public static void main(String[] args) throws Exception {
