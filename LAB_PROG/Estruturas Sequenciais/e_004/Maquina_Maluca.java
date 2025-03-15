@@ -1,4 +1,4 @@
-package _004;
+package e_004;
 import java.util.Scanner;
 
 public class Maquina_Maluca {

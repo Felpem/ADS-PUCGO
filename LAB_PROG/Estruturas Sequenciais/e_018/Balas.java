@@ -1,4 +1,4 @@
-package _018;
+package e_018;
 import java.util.Scanner;
     public class Balas{
         public static void main(String[]args){

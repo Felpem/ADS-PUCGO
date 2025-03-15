@@ -1,4 +1,4 @@
-package  _005;
+package  e_005;
 import java.util.Scanner;
 
 public class Consumo_Combustivel {

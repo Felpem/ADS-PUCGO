@@ -1,4 +1,4 @@
-package  _006;
+package  e_006;
 import java.util.Scanner;
 
 public class Bissexto{

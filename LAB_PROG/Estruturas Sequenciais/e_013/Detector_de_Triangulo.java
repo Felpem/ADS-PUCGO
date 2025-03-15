@@ -1,4 +1,4 @@
-package  _013;
+package  e_013;
 import java.util.Scanner;
     public class Detector_de_Triangulo{
         public static void main(String[]args){
