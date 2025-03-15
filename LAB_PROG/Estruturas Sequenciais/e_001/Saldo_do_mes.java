@@ -21,7 +21,6 @@ public class Saldo_do_mes {
             } else{
                 msg = "Saldo positivo em R$";
             }
-        
        }
        System.out.printf(msg + sldofim);
     }
