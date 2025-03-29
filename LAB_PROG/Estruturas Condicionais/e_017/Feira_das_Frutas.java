@@ -38,7 +38,7 @@ public class Feira_das_Frutas {
                 else{ custo = kg * 14.83; }
         }
         else{
-        System.out.println("INVALIDO");
+        System.out.println("FRUTA INVALIDA");
        }
             if (kg >= 15 || custo >= 200){
                 custo = custo - (custo * 0.2);
