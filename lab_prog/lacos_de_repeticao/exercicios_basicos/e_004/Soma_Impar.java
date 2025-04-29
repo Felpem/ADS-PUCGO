@@ -1,4 +1,4 @@
-package lab_prog.lacos_de_repeticao.e_004;
+package lab_prog.lacos_de_repeticao.exercicios_basicos.e_004;
 
 import java.util.Scanner;
 
